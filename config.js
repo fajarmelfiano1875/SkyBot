@@ -6,12 +6,12 @@ import moment from 'moment-timezone'
 
 /**Oᴡɴᴇʀ number**/
 global.owner = [
-  ['62895347198105', '️Oᴡɴᴇʀ Sky-MD', true]
+  ['6285748839210', '️Oᴡɴᴇʀ MT-MD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['62895347198105'] // Want some help?
-global.prems = ['62895347198105'] // Premium user has unlimited limit
-global.girlfren = ['62895347198105'] // Your gf/pacar
+global.mods = ['6285748839210'] // Want some help?
+global.prems = ['6285748839210'] // Premium user has unlimited limit
+global.girlfren = ['6285748839210'] // Your gf/pacar
 
 //Api website
 global.APIs = { // API Prefix
@@ -63,16 +63,16 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289636219593'
-global.nomorown = '62895347198105'
-global.namebot = '↻Sky-𝕸𝕯'
+global.nomorbot = '6281939268418'
+global.nomorown = '6285748839210'
+global.namebot = '↻MT-𝕸𝕯'
 global.nameown = '「 Owner 」'
 global.lolkey = 'sonelganz'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sky-𝕸𝕯 あ⁩ 」' //Main Watermark
+global.wm = '                「 MT-𝕸𝕯 あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ↻SKY-𝕸𝕯'
+global.wm3 = '⫹⫺ ↻MT-𝕸𝕯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -104,7 +104,7 @@ global.sig = 'https://instagram.com/arifzyn19_'
 global.sgh = 'https://github.com/RifXz19'
 global.sgc = 'https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z'
 global.sdc = 'https://saweria.co/arifzyn'
-global.snh = 'https://wa.me/62895347198105'
+global.snh = 'https://wa.me/6285748839210'
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
@@ -360,7 +360,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `↻Sky-𝕸𝕯\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `↻MT-𝕸𝕯\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
 global.author = "ARIF XZ ✰"
 global.multiplier = 69 // The higher, The harder levelup
@@ -369,25 +369,25 @@ global.multiplier = 69 // The higher, The harder levelup
 global.eror = 'Erorr...'
 global.wait = 'Wait...'
 global.render = 'Render...'
-global.webs = 'https://saweria.co/arifzyn'//Your Website
+global.webs = 'https://saweria.co/fajarmelfiano'//Your Website
 global.logo = "https://telegra.ph/file/23ca907b7119e4843ca18.jpg"//Your logo
 global.gcwangsaf = "https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/aldashakila"// website saweria.co
-global.dana = ["0895347198105"]
-global.pulsa = ["089636219593"]//pulsa here
+global.saweria = "https://saweria.co/fajarmelfiano"// website saweria.co
+global.dana = ["085748839210"]
+global.pulsa = ["085748839210"]//pulsa here
 global.trakteer = "--"//Link url https://
-global.paypal = "aldashakila23@gmail.com"//paypal email
-global.gopay = "089636219593"//Numver for Payment digital Gopay Gojek
+global.paypal = "fajarmelfianoutama@gmail.com"//paypal email
+global.gopay = "085748839210"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895347198105'
-global.povo = '0895347198105'
-global.pgopay = '089636219593'
-global.ppulsa = '089636219593'
-global.ppulsa2 = '0895347198105'
-global.psaweria = 'https://saweria.com/aldashakila'
+global.pdana = '085748839210'
+global.povo = '085748839210'
+global.pgopay = '085748839210'
+global.ppulsa = '085748839210'
+global.ppulsa2 = '085748839210'
+global.psaweria = 'https://saweria.co/fajarmelfiano'
 
 //Rpg
 global.rpg = {
